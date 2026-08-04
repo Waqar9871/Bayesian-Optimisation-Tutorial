@@ -1,4 +1,4 @@
-Roasting Time (h),NH4Cl dose (g/g),Leaching Solvent: HCL (M),Roasting Temperature (°C),Cu Extraction (%),Silver Extraction (%),Gold Extraction (%)
+Roasting Time (h),NH4Cl dose (g/g),HCl concentration (M),Roasting Temperature (Â°C),Cu Extraction (%),Ag Extraction (%),Au Extraction (%)
 3,2,2,200,36,31,27
 3,2,2,220,63,56,42
 3,2,2,240,81,75,70
